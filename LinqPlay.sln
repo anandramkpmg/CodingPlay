@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqPlay", "LinqPlay\LinqPlay.csproj", "{EFC5AC3E-A43C-4263-B324-3F48DA0DCC8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{40952CC5-6527-4EB0-B86D-AE6C26F04173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerRank", "HackerRank\HackerRank.csproj", "{09BD3786-BAE1-4AF9-989C-CC65DC3AD668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC5AC3E-A43C-4263-B324-3F48DA0DCC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC5AC3E-A43C-4263-B324-3F48DA0DCC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC5AC3E-A43C-4263-B324-3F48DA0DCC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC5AC3E-A43C-4263-B324-3F48DA0DCC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40952CC5-6527-4EB0-B86D-AE6C26F04173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40952CC5-6527-4EB0-B86D-AE6C26F04173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40952CC5-6527-4EB0-B86D-AE6C26F04173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40952CC5-6527-4EB0-B86D-AE6C26F04173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09BD3786-BAE1-4AF9-989C-CC65DC3AD668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09BD3786-BAE1-4AF9-989C-CC65DC3AD668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09BD3786-BAE1-4AF9-989C-CC65DC3AD668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09BD3786-BAE1-4AF9-989C-CC65DC3AD668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE9C4427-C72E-4BF4-8B25-56FC1EA73F37}
+	EndGlobalSection
+EndGlobal

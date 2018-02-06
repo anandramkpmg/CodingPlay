@@ -1,0 +1,7 @@
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\Users\anandram.appuswamy\documents\visual studio 2017\Projects\LinqPlay\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
